@@ -1,0 +1,652 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+<!-- Mirrored from 99webpage.com/theme-review/html/gobike/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 22 Feb 2023 15:57:45 GMT -->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<meta name="robots" content="index,follow">
+	<link rel="icon" href="ico/favicon.png">
+	
+    <title>deliverrr</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Overwrite bootstrap style -->
+    <link href="css/bootsnav.css" rel="stylesheet">
+    <link href="css/overwrite.css" rel="stylesheet">
+
+    <!-- Fonts -->
+    <link href='fonts/opensans/stylesheet.css' rel='stylesheet' type='text/css'>
+    
+    <!-- Icons -->
+    <link href="fonts/FontAwesome/font-awesome.css" rel="stylesheet">
+	
+    <!-- Custom styles for this template -->
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- Skins style -->
+    <link id="skin" href="skins/default.css" rel="stylesheet">
+	
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.min.js"></script>
+      <script src="js/respond.min.js"></script>
+    <![endif]-->
+	
+</head>
+
+<body> 
+	<!-- Strat Top Menu -->
+	<div class="top-menu">
+		<div class="container">
+			<ul class="menu-link">
+				<li><a href="signup.html">Register free</a></li>
+				<li><a href="signin.html">Sign in</a></li>
+			</ul>
+			<ul class="menu-icon">
+				<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+				<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+				<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+				<li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+				<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+				<li><a href="#"><i class="fa fa-youtube"></i></a></li>
+			</ul>
+		</div>
+	</div>
+	<!-- End Top Menu -->
+	
+    <!-- Start Navigation -->  
+    <nav class="navbar navbar-default navbar-sticky bootsnav">
+		<!-- Start Top Search -->
+		<div class="top-search">
+			<div class="container">
+				<div class="input-group">
+					<span class="input-group-addon"><i class="fa fa-search"></i></span>
+					<input type="text" class="form-control" placeholder="Search">
+					<span class="input-group-addon close-search"><i class="fa fa-times"></i></span>
+				</div>
+			</div>
+		</div>
+		<!-- End Top Search -->
+        <div class="container"> 
+			<!-- Start Atribute Navigation -->
+			<div class="attr-nav">
+				<ul>
+					<li class="search"><a href="#"><i class="fa fa-search"></i></a></li>
+				</ul>
+			</div>        
+			<!-- End Atribute Navigation -->
+            <!-- Start Header Navigation -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                    <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand" href="#brand"><img src="images/brand/Logo.png" class="logo" alt=""></a>
+            </div>
+            <!-- End Header Navigation -->
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="navbar-menu">
+                <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">
+                    <li class="active"><a href="#">Home</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="services.html">Services</a></li>
+					<li><a href="pricing.html">Pricing</a></li>				
+                    
+                </ul>
+            </div><!-- /.navbar-collapse -->
+        </div>   
+    </nav>
+    <!-- End Navigation -->
+	
+	<div class="clearfix"></div>
+	
+	<!-- Start Home -->
+	<div class="home">
+		<div id="bg-home" class="bg-home"></div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8">
+					<!-- Start Heading home -->
+					<div class="heading-home">
+						<h1 class="title"><span>Courier now</span> </h1>
+						<p>
+							We are faster, better, and cheaper
+						</p>
+					</div>
+					<!-- End Heading home -->
+					<!-- Start Form -->	
+					<div class="form-home">
+						<form id="SignupForm">
+							<fieldset>
+								<legend>Your Information</legend>
+								<div class="row">
+									<div class="col-sm-4">
+										<div class="form-group require">
+											<label for="Name" class="require">Name</label>
+											<input id="Name" type="text" class="form-control validate[required]" placeholder="Enter your fullname"/>
+										</div>
+									</div>
+									<div class="col-sm-4">
+										<div class="form-group require">
+											<label for="Phone">Phone</label>
+											<input id="Phone" type="text" class="form-control validate[custom[phone],required]" placeholder="Enter your phone number"/>
+										</div>
+									</div>
+									<div class="col-sm-4">
+										<div class="form-group require">
+											<label for="Email">Email</label>
+											<input id="Email" type="email" class="form-control validate[custom[email],required]" placeholder="Enter your email address"/>
+										</div>
+									</div>
+									<div class="col-sm-4">
+										<div class="form-group require">
+											<label for="Services" class="require">Services</label>
+											<select id="Services" class="form-control validate[required]">
+												<option>Day</option>
+												<option>Standard</option>
+												<option>Urgent</option>
+											</select>
+										</div>
+									</div>
+									<div class="col-sm-4">
+										<div class="form-group require">
+											<label for="Delivery">Delivery</label>
+											<select id="Delivery" class="form-control validate[required]">
+												<option>One Way</option>
+												<option>Return Service</option>
+											</select>
+										</div>
+									</div>
+									<div class="col-sm-4">
+										<div class="form-group require">
+											<label for="Notification">Notification</label>
+											<select id="Notification" class="form-control validate[required]">
+												<option>No Thank You</option>
+												<option>By email</option>
+												<option>By TXT</option>
+												<option>By phone</option>
+											</select>
+										</div>
+									</div>
+									<div class="col-sm-12">
+										<div class="form-group require">
+											<label for="Address">Address</label>
+											<textarea id="Address" class="form-control validate[required]" placeholder="Enter your address" rows="5"></textarea>
+										</div>
+									</div>
+								</div>  
+							</fieldset>
+							<fieldset>
+								<legend>Account information</legend>
+								<div class="row">
+									<div class="col-sm-4">
+										<div class="form-group require">
+											<label for="Recipient" class="require">Recipient</label>
+											<input id="Recipient" type="text" class="form-control validate[required]" placeholder="Enter recipient's name"/>
+										</div>
+									</div>
+									<div class="col-sm-4">
+										<div class="form-group require">
+											<label for="Phone2">Phone</label>
+											<input id="Phone2" type="text" class="form-control validate[custom[phone],required]" placeholder="Enter recipient's phone"/>
+										</div>
+									</div>
+									<div class="col-sm-4">
+										<div class="form-group require">
+											<label for="Email2">Email</label>
+											<input id="Email2" type="email" class="form-control validate[custom[email],required]" placeholder="Enter recipient's email"/>
+										</div>
+									</div>
+									<div class="col-sm-4">
+										<div class="form-group require">
+											<label for="Package" class="require">Package type</label>
+											<select id="Package" class="form-control validate[required]">
+												<option>Document</option>
+												<option>Commodity</option>
+												<option>Mail</option>
+												<option>Electronic</option>
+												<option>Money</option>
+												<option>Foods</option>
+												<option>Secret Document</option>
+											</select>
+										</div>
+									</div>
+									<div class="col-sm-4">
+										<div class="form-group require">
+											<label for="Size" class="require">Size</label>
+											<select id="Size" class="form-control validate[required]">
+												<option>Small</option>
+												<option>Medium</option>
+												<option>Large</option>
+											</select>
+										</div>
+									</div>
+									<div class="col-sm-4">
+										<div class="form-group require">
+											<label for="Date" class="require">Date</label>
+											<input id="Date" type="text" class="form-control validate[required,custom[date]]" placeholder="2016-08-01"/>
+										</div>
+									</div>
+									<div class="col-sm-12">
+										<div class="form-group require">
+											<label for="Address2">Delivery to</label>
+											<textarea id="Address2" class="form-control validate[required]" placeholder="Enter your adress" rows="5"></textarea>
+										</div>
+									</div>
+								</div>          
+							</fieldset>
+							<div class="form-group marginbot-clear">
+								<input id="SaveAccount" type="button" value="Booking Courier" class="btn btn-primary"/>
+							</div>  
+						</form>
+					</div>	
+					<!-- End Form -->	
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- End Home -->
+	
+	<div class="clearfix"></div>
+    
+	<!-- Start Section -->
+	<div class="section dark paddingbot-clear">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4">
+					<!-- Start Text Icon -->
+					<div class="col-icon absolute-left">
+						<i class="fa fa-headphones fa-2x"></i>
+						<h5 class="normal">Booking courier</h5>
+						<p>
+							You can book your courier simply by filling up the form providing the derails of the package and its ready to go.
+						</p>
+					</div>
+					<!-- End Text Icon -->
+				</div>
+				<div class="col-sm-4">
+					<!-- Start Text Icon -->
+					<div class="col-icon absolute-left">
+						<i class="fa fa-bicycle fa-2x"></i>
+						<h5 class="normal">Delivery Package</h5>
+						<p>
+							You can check the real time delivery status of your product wherever it goes. 
+						</p>
+					</div>
+					<!-- End Text Icon -->
+				</div>
+				<div class="col-sm-4">
+					<!-- Start Text Icon -->
+					<div class="col-icon absolute-left">
+						<i class="fa fa-gift fa-2x"></i>
+						<h5 class="normal">Received Package</h5>
+						<p>
+							You will get notified after the package reaches its destined place.
+						</p>
+					</div>
+					<!-- End Text Icon -->
+				</div>
+			</div>
+		</div>
+		<div class="triangle margintop10" data-height="85" data-color-bottom="#ffffff" data-color-top="transparent"></div>
+	</div>
+	<!-- End Section -->
+	
+	<div class="clearfix"></div>
+	
+	<!-- Start Section -->
+	<div class="section paddingbot-clear">
+		<div class="container">
+			<!-- Start Heading -->
+			<div class="heading marginbot30">
+				<h2 class="title">
+					<span>Who we are?</span>
+					deliverrrr
+				</h2>
+			</div>
+			<!-- End Heading -->
+			<div class="row">
+				<div class="col-md-8 col-md-offset-2 text-center">
+					<p class="marginbot30">
+						Deliverrr is an e-courier platform that provides users with a safe and secure way to courier packages from one point to another. The platform allows users to easily schedule pick-up and delivery times for their packages, track their shipments in real-time, and communicate with their delivery person. Deliverrr ensures the safety of packages through rigorous background checks and training of their delivery personnel, as well as by using advanced tracking and security systems. With Deliverrr, users can have peace of mind knowing that their packages are in good hands and will be delivered safely and on time.
+					</p>
+					
+					<img src="images/bike-image.png" alt="" class="img-responsive img-center">
+				</div>
+			</div>
+		</div>
+		<div class="triangle margin-mintop85" data-height="85" data-color-bottom="#f0f2f5" data-color-top="transparent"></div>
+	</div>
+	<!-- End Section -->
+	
+	<div class="clearfix"></div>
+	
+	<!-- Start Section -->
+	<div class="section gray paddingbot-clear">
+		<div class="container">
+			<!-- Start Heading -->
+			<div class="heading marginbot50">
+				<h2 class="title">
+					<span>What we do?</span>
+					Our services delivery
+				</h2>
+			</div>
+			<!-- End Heading -->
+			<!-- Start Content Slider -->
+			<div class="wrap-slide">
+				<div id="slide1" class="content-slide">
+					<div class="item">
+						<div class="text-icon-border">
+							<span class="icon"><i class="fa fa-clipboard"></i></span>
+							<h5 class="title">Document</h5>
+						</div>
+					</div>
+					<div class="item">
+						<div class="text-icon-border">
+							<span class="icon"><i class="fa fa-envelope"></i></span>
+							<h5 class="title">Mail</h5>
+						</div>
+					</div>
+					<div class="item">
+						<div class="text-icon-border">
+							<span class="icon"><i class="fa fa-cubes"></i></span>
+							<h5 class="title">Commodity</h5>
+						</div>
+					</div>
+					<div class="item">
+						<div class="text-icon-border">
+							<span class="icon"><i class="fa fa-laptop"></i></span>
+							<h5 class="title">Electronic</h5>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- End Content Slider -->
+		</div>	
+	</div>
+	<!-- End Section -->
+	
+	<div class="clearfix"></div>
+	
+	
+	
+	<div class="clearfix"></div>
+	
+	<!-- Start Section -->
+	<div class="section paddingbot-clear">
+		<div class="container">
+			<!-- Start Heading -->
+			<div class="heading marginbot50">
+				<h2 class="title">
+					<span>Pricing table</span>
+					Our delivery method
+				</h2>
+			</div>
+			<!-- End Heading -->
+			<div class="row">
+				<div class="col-md-10 col-md-offset-1">
+					<!-- Start Pricing Table -->
+					<div class="wrap-table-price">
+						<table class="table-price">
+							<tr>
+								<th class="no-border"></th>
+								<th colspan="6" class="text-center table-heading radius-top-left radius-top-right top">
+									Delivery services
+								</th>
+							</tr>
+							<tr class="title-table">
+								<th class="table-heading radius-top-left table-category">
+									Package type
+								</th>
+								<th>
+									Day
+									<span class="small">One way</span>
+								</th>
+								<th>
+									Day
+									<span class="small">Return</span>
+								</th>
+								<th>
+									Standard
+									<span class="small">One way</span>
+								</th>
+								<th>
+									Standard
+									<span class="small">Return</span>
+								</th>
+								<th>
+									Urgent
+									<span class="small">One way</span>
+								</th>
+								<th>
+									Urgent
+									<span class="small">Return</span>
+								</th>
+							</tr>                                                                                                                          
+							<tr>
+								<td class="table-category">
+									<h6 class="title">Document</h6>
+								</td>
+								<td data-title="Day / One way">$12<span>/kg</span></td>
+								<td data-title="Day / Return">$25<span>/kg</span></td>
+								<td data-title="Standard / One way">$20<span>/kg</span></td>
+								<td data-title="Standard / Return">$35<span>/kg</span> </td>
+								<td data-title="Urgent / One way">$32<span>/kg</span></td>
+								<td data-title="Urgent / Return">$50<span>/kg</span></td>
+							</tr>                                                                                                        
+							<tr class="tr-gray">
+								<td class="table-category">
+									<h6 class="title">Commodity</h6>
+								</td>
+								<td data-title="Day / One way">$2<span>/kg</span></td>
+								<td data-title="Day / Return">$4<span>/kg</span></td>
+								<td data-title="Standard / One way">$10<span>/kg</span></td>
+								<td data-title="Standard / Return">$18<span>/kg</span></td>
+								<td data-title="Urgent / One way">$20<span>/kg</span> </td>
+								<td data-title="Urgent / Return">$36<span>/kg</span></td>
+							</tr>                                                                                                       
+							<tr>
+								<td class="table-category">
+									<h6 class="title">Mail</h6>
+								</td>
+								<td data-title="Day / One way">$8<span>/kg</span></td>
+								<td data-title="Day / Return">$15<span>/kg</span></td>
+								<td data-title="Standard / One way">$12<span>/kg</span></td>
+								<td data-title="Standard / Return">$20<span>/kg</span></td>
+								<td data-title="Urgent / One way">$18<span>/kg</span></td>
+								<td data-title="Urgent / Return">$30<span>/kg</span></td>
+							</tr>                                                                                                        
+							<tr class="tr-gray">
+								<td class="table-category">
+									<h6 class="title">Electronic</h6>
+								</td>
+								<td data-title="Day / One way">$30<span>/kg</span></td>
+								<td data-title="Day / Return">$56<span>/kg</span></td>
+								<td data-title="Standard / One way">$50<span>/kg</span></td>
+								<td data-title="Standard / Return">$90<span>/kg</span></td>
+								<td data-title="Urgent / One way">$100<span>/kg</span></td>
+								<td data-title="Urgent / Return">$180<span>/kg</span></td>
+							</tr>
+							<tr>
+								<td class="table-category">
+									<h6 class="title">Money</h6>
+								</td>
+								<td data-title="Day / One way">$18<span>/kg</span></td>
+								<td data-title="Day / Return">$30<span>/kg</span></td>
+								<td data-title="Standard / One way">$24<span>/kg</span></td>
+								<td data-title="Standard / Return">$40<span>/kg</span></td>
+								<td data-title="Urgent / One way">$32kg</td>
+								<td data-title="Urgent / Return">$50<span>/kg</span></td>
+							</tr>
+							<tr class="tr-gray">
+								<td class="table-category">
+									<h6 class="title">Foods</h6>
+								</td>
+								<td data-title="Day / One way">$10<span>/kg</span></td>
+								<td data-title="Day / Return">$18<span>/kg</span></td>
+								<td data-title="Standard / One way">$20<span>/kg</span></td>
+								<td data-title="Standard / Return">$32<span>/kg</span></td>
+								<td data-title="Urgent / One way">$30<span>/kg</span></td>
+								<td data-title="Urgent / Return">$50<span>/kg</span></td>
+							</tr>
+							<tr>
+								<td class="table-category">
+									<h6 class="title">Secret document</h6>
+								</td>
+								<td data-title="Day / One way">$110<span>/kg</span></td>
+								<td data-title="Day / Return">$190<span>/kg</span></td>
+								<td data-title="Standard / One way">$190<span>/kg</span></td>
+								<td data-title="Standard / Return">$300<span>/kg</span></td>
+								<td data-title="Urgent / One way">$250<span>/kg</span></td>
+								<td data-title="Urgent / Return">$400<span>/kg</span></td>
+							</tr>
+						</table>
+					</div>	
+					<!-- End Pricing Table -->
+					
+					<div class="row">
+						<div class="col-sm-6">
+							<p>
+								<small>*Packages below 1 kg is calculated to be 1kg</small>
+							</p>
+						</div>
+						<div class="col-sm-6 text-right-sm">
+							<a href="#" class="btn btn-primary">Book courier now</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>	
+		<div class="triangle margintop30" data-height="85"  data-color-bottom="#f0f2f5" data-color-top="transparent"></div>
+	</div>
+	<!-- End Section -->	
+	<div class="clearfix"></div>
+	<!-- Start footer -->
+	<footer>
+		<!-- Start main footer -->
+		<div class="main-footer padding-bot30">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3 widget-footer">
+						<h5 class="title">Find Us</h5>
+						
+						<div class="footer-network">
+							<a href="#"><i class="fa fa-facebook icon-circle"></i></a>
+							<a href="#"><i class="fa fa-twitter icon-circle"></i></a>
+							<a href="#"><i class="fa fa-linkedin icon-circle"></i></a>
+							<a href="#"><i class="fa fa-dribbble icon-circle"></i></a>
+							<a href="#"><i class="fa fa-instagram icon-circle"></i></a>
+						</div>
+					</div>
+					<div class="col-md-3 widget-footer">
+						<div class="row">
+							<div class="col-md-6 col-sm-6 col-xs-6">
+								<!-- Start Link -->
+								<ul class="footer-link">
+									<li><a href="#">About</a></li>
+									<li><a href="#">Contact</a></li>
+									<li><a href="#">Term Of Service</a></li>
+									<li><a href="#">Privacy Policy</a></li>
+								</ul>
+								<!-- Start Link -->
+							</div>
+						</div>
+					</div>
+					<div class="col-md-3 widget-footer">
+						<h5 class="title">Know More About Us</h5>
+						<div class="input-group left">
+							<input type="text" class="form-control form-subscribe" placeholder="Enter Your Email">
+							<span class="input-group-btn">
+							<button class="btn btn-primary" type="button"><span class="fa fa-envelope"></span></button>
+							</span>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+		<!-- End main footer -->
+		
+		<!-- Start sub footer -->
+		<div class="subfooter">
+			<p>2016 &copy; Copyright <a href="http://99webpage.com/">nce18cex.</a> All rights Reserved.</p>
+		</div>
+		<!-- End sub footer -->
+	</footer>
+	<!-- End footer -->
+	
+	<!-- Start to top -->  
+    <a href="#" class="toTop">
+        <i class="fa fa-chevron-up"></i>
+    </a>  
+    <!-- End to top --> 
+	
+	<!-- START JAVASCRIPT -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="js/ie10-viewport-bug-workaround.js"></script>
+	
+	<!-- Bootsnavs -->
+    <script src="js/bootsnav/bootsnav.js"></script>
+	
+	<!-- Columns -->
+    <script src="js/column/bootstrap-grid-columns.js"></script>
+	
+	<!-- Custom form -->
+	<script src="js/form/jcf.js"></script>
+	<script src="js/form/jcf.scrollable.js"></script>
+	<script src="js/form/jcf.select.js"></script>
+	<script>
+		jcf.replaceAll();
+	</script>
+	
+	<!-- ticker -->
+	<script src="js/ticker/ticker.js"></script>
+	
+	<!-- Twitter -->
+    <!--[if lte IE 9]>
+    	<script src="js/tweecool/jquery.xdomainrequest.min.js"></script>      
+	<![endif]-->
+	<script src="js/tweecool/tweecool.js"></script>
+	<script src="js/tweecool/setting.js"></script>  
+	
+	<!-- Parallax -->
+	<script src="js/parallax/jarallax.js"></script>
+	<script src="js/parallax/setting.js"></script>
+	
+	<!-- Owl -->
+	<script src="js/owl/owl.carousel.js"></script>
+	<script src="js/owl/setting.js"></script>
+	
+	<!-- Form Wizard -->
+	<script src="js/form-wizard/jquery.formtowizard.js"></script>
+    <script src="js/form-wizard/jquery.validationEngine.min.js"></script>
+    <script src="js/form-wizard/jquery.validationEngine-en.min.js"></script>
+    <script src="js/form-wizard/setting.js"></script>
+	
+	<!-- Vegas -->
+    <script src="js/vegas/vegas.js"></script>  
+    <script src="js/vegas/setting.js"></script> 
+	
+    <!-- My Script -->
+    <script type="text/javascript" src="js/custom.js"></script>
+
+	<!-- template option-->
+	<script src="js/template-option/demosetting.html"></script>	
+	<!-- END JAVASCRIPT -->
+
+</body>
+
+<!-- Mirrored from 99webpage.com/theme-review/html/gobike/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 22 Feb 2023 15:58:49 GMT -->
+</html>

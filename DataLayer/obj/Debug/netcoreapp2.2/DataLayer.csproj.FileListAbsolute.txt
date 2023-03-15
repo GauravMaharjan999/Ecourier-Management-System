@@ -1,0 +1,50 @@
+F:\INTERN PROJECTS\StudentManagementSystem_dotnetinternproject\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.deps.json
+F:\INTERN PROJECTS\StudentManagementSystem_dotnetinternproject\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.dll
+F:\INTERN PROJECTS\StudentManagementSystem_dotnetinternproject\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.pdb
+F:\INTERN PROJECTS\StudentManagementSystem_dotnetinternproject\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.csproj.AssemblyReference.cache
+F:\INTERN PROJECTS\StudentManagementSystem_dotnetinternproject\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\INTERN PROJECTS\StudentManagementSystem_dotnetinternproject\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.AssemblyInfoInputs.cache
+F:\INTERN PROJECTS\StudentManagementSystem_dotnetinternproject\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.AssemblyInfo.cs
+F:\INTERN PROJECTS\StudentManagementSystem_dotnetinternproject\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.csproj.CoreCompileInputs.cache
+F:\INTERN PROJECTS\StudentManagementSystem_dotnetinternproject\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.dll
+F:\INTERN PROJECTS\StudentManagementSystem_dotnetinternproject\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.pdb
+E:\StudentManagement\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.deps.json
+E:\StudentManagement\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.dll
+E:\StudentManagement\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.pdb
+E:\StudentManagement\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.csproj.AssemblyReference.cache
+E:\StudentManagement\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudentManagement\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.AssemblyInfoInputs.cache
+E:\StudentManagement\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.AssemblyInfo.cs
+E:\StudentManagement\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.csproj.CoreCompileInputs.cache
+E:\StudentManagement\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.dll
+E:\StudentManagement\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.pdb
+C:\Users\hp\Downloads\StudentManagement\StudentManagement\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.deps.json
+C:\Users\hp\Downloads\StudentManagement\StudentManagement\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.dll
+C:\Users\hp\Downloads\StudentManagement\StudentManagement\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.pdb
+C:\Users\hp\Downloads\StudentManagement\StudentManagement\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\StudentManagement\StudentManagement\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\StudentManagement\StudentManagement\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\StudentManagement\StudentManagement\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.AssemblyInfo.cs
+C:\Users\hp\Downloads\StudentManagement\StudentManagement\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\StudentManagement\StudentManagement\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.dll
+C:\Users\hp\Downloads\StudentManagement\StudentManagement\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.pdb
+F:\StudentManagement\StudentManagement\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.deps.json
+F:\StudentManagement\StudentManagement\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.dll
+F:\StudentManagement\StudentManagement\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.pdb
+F:\StudentManagement\StudentManagement\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.csproj.AssemblyReference.cache
+F:\StudentManagement\StudentManagement\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\StudentManagement\StudentManagement\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.AssemblyInfoInputs.cache
+F:\StudentManagement\StudentManagement\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.AssemblyInfo.cs
+F:\StudentManagement\StudentManagement\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.csproj.CoreCompileInputs.cache
+F:\StudentManagement\StudentManagement\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.dll
+F:\StudentManagement\StudentManagement\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.pdb
+F:\StudentManagement\EcommerceManagementSystem\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.deps.json
+F:\StudentManagement\EcommerceManagementSystem\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.dll
+F:\StudentManagement\EcommerceManagementSystem\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.pdb
+F:\StudentManagement\EcommerceManagementSystem\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.csproj.AssemblyReference.cache
+F:\StudentManagement\EcommerceManagementSystem\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\StudentManagement\EcommerceManagementSystem\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.AssemblyInfoInputs.cache
+F:\StudentManagement\EcommerceManagementSystem\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.AssemblyInfo.cs
+F:\StudentManagement\EcommerceManagementSystem\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.csproj.CoreCompileInputs.cache
+F:\StudentManagement\EcommerceManagementSystem\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.dll
+F:\StudentManagement\EcommerceManagementSystem\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.pdb

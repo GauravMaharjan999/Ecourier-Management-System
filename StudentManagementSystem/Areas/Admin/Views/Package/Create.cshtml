@@ -1,0 +1,178 @@
+﻿@model Courier
+@{
+    ViewBag.Title = "Courier Registration ";
+    var sn = 0;
+
+    var controllerName = ViewContext.RouteData.Values["controller"].ToString();
+    var actionName = ViewContext.RouteData.Values["action"].ToString();
+
+}
+
+@{
+    Layout = ViewBag.Layout;
+}
+<link href="~/css/FancyTable.css" rel="stylesheet" />
+<!-- Breadcubs Area Start Here -->
+<div class="breadcrumbs-area">
+    <h3>Courier Package</h3>
+    <ul>
+        <li>
+            <a asp-controller="Package" asp-action="index" data-ajax="true"
+               data-ajax-method="GET" data-ajax-mode="replace"
+               data-ajax-update="#main-div">Home</a>
+        </li>
+        <li>@actionName Courier Package</li>
+    </ul>
+</div>
+<!-- Admit Form Area Start Here -->
+<div class="card height-auto">
+    <div class="card-body">
+        <div class="heading-layout1">
+            <div class="item-title">
+                <h3>@actionName Courier Package</h3>
+            </div>
+
+        </div>
+        <form asp-area="admin" asp-controller=@controllerName asp-action=@actionName method="post" class="new-added-form">
+            <div class="row">
+                <div class="col-xl-3 col-lg-6 col-12 form-group">
+                    <label>Name</label>
+                    <input type="text" placeholder="" asp-for="Name" class="form-control">
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+
+                <div class="col-xl-3 col-lg-6 col-12 form-group">
+                    <label>Phone</label>
+                    <input type="text" placeholder="" asp-for="Phone" class="form-control">
+                    <span asp-validation-for="Phone" class="text-danger"></span>
+                </div>
+
+                <div class="col-xl-3 col-lg-6 col-12 form-group">
+                    <label>Email </label>
+                    <input type="text" placeholder="" asp-for="Email" class="form-control">
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+
+                <div class="col-xl-3 col-lg-6 col-12 form-group">
+                    <label>Address </label>
+                    <input type="text" placeholder="" asp-for="Address" class="form-control">
+                    <span asp-validation-for="Address" class="text-danger"></span>
+                </div>
+
+                <div class="col-xl-3 col-lg-6 col-12 form-group">
+                    <label>Delivery *</label>
+                    <select asp-for="Delivery" class="select2" style="width:190px">
+                        <option>One Way</option>
+                        <option>Return Service</option>
+                    </select>
+                    <span asp-validation-for="Delivery" class="text-danger"></span>
+                </div>
+
+                <div class="col-xl-3 col-lg-6 col-12 form-group">
+                    <label>Notification *</label>
+                    <select asp-for="Notification" class="select2" style="width:190px">
+                        <option>No Thank You</option>
+                        <option>By email</option>
+                        <option>By TXT</option>
+                        <option>By phone</option>
+                    </select>
+                    <span asp-validation-for="Notification" class="text-danger"></span>
+                </div>
+                <div class="col-xl-3 col-lg-6 col-12 form-group">
+                    <label>Services *</label>
+                    <select asp-for="Services" class="select2" style="width:190px">
+                        <option>Day</option>
+                        <option>Standard</option>
+                        <option>Urgent</option>
+                    </select>
+                    <span asp-validation-for="Services" class="text-danger"></span>
+                </div>
+
+
+                <div class="col-xl-3 col-lg-6 col-12 form-group">
+                    <label>Recipient Name</label>
+                    <input type="text" placeholder="" asp-for="RecName" class="form-control">
+                    <span asp-validation-for="RecName" class="text-danger"></span>
+                </div>
+                 <div class="col-xl-3 col-lg-6 col-12 form-group">
+                    <label>Recipient Phone</label>
+                    <input type="text" placeholder="" asp-for="RecPhone" class="form-control">
+                    <span asp-validation-for="Phone" class="text-danger"></span>
+                </div>
+
+                 <div class="col-xl-3 col-lg-6 col-12 form-group">
+                    <label>Recipient</label>
+                    <input type="text" placeholder="" asp-for="RecName" class="form-control">
+                    <span asp-validation-for="RecName" class="text-danger"></span>
+                </div>
+
+                 <div class="col-xl-3 col-lg-6 col-12 form-group">
+                    <label>Recipient Email</label>
+                    <input type="text" placeholder="" asp-for="RecEmail" class="form-control">
+                    <span asp-validation-for="RecEmail" class="text-danger"></span>
+                </div>
+
+                <div class="col-xl-3 col-lg-6 col-12 form-group">
+                    <label>Package type*</label>
+                    <select asp-for="PackageType" class="select2" style="width:190px">
+                        <option>Document</option>
+                        <option>Commodity</option>
+                        <option>Mail</option>
+                        <option>Electronic</option>
+                        <option>Money</option>
+                        <option>Foods</option>
+                        <option>Secret Document</option>
+                    </select>
+                    <span asp-validation-for="PackageType" class="text-danger"></span>
+                </div>
+
+
+                <div class="col-xl-3 col-lg-6 col-12 form-group">
+                    <label>Size *</label>
+                    <select asp-for="Size" class="select2" style="width:190px">
+                        <option>Small</option>
+                        <option>Medium</option>
+                        <option>Large</option>
+                    </select>
+                    <span asp-validation-for="Size" class="text-danger"></span>
+                </div>
+
+                 <div class="col-xl-3 col-lg-6 col-12 form-group">
+                    <label>Date</label>
+                    <input type="text" placeholder="" asp-for="Date" class="form-control">
+                    <span asp-validation-for="Date" class="text-danger"></span>
+                </div>
+
+                <div class="col-xl-3 col-lg-6 col-12 form-group">
+                    <label>Delivery to</label>
+                    <input type="text" placeholder="" asp-for="DeliveryTo" class="form-control">
+                    <span asp-validation-for="DeliveryTo" class="text-danger"></span>
+                </div>
+                <div class="col-xl-3 col-lg-6 col-12 form-group">
+                    <label>Delivery Man</label>
+                    <select asp-for="DeliveryManId" class="select2" style="width:190px" asp-items="@(new SelectList(ViewBag.DeliveryManList, nameof(DeliveryMan.Id), nameof(DeliveryMan.Name)))">
+                    </select>
+                    <span asp-validation-for="Size" class="text-danger"></span>
+                </div>
+ 
+
+                <div class="col-12 form-group mg-t-8">
+                    <button type="submit" class="btn-fill-lg btn-gradient-yellow btn-hover-bluedark">Save</button>
+                    <button type="reset" class="btn-fill-lg bg-blue-dark btn-hover-yellow">Reset</button>
+                    <a asp-action="Index" asp-controller="Package" data-ajax="true"
+                       data-ajax-method="GET" data-ajax-mode="replace"
+                       data-ajax-update="#main-div" class="btn-fill-lg bg-blue-dark btn-hover-yellow">Back</a>
+                </div>
+
+
+
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+<script>
+    $('.select2').select2();
+</script>
