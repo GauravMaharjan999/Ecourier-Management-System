@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using Modellayer.Models;
+using System.Linq;
 using System.Threading.Tasks;
 using static ClientNotifications.Helpers.NotificationHelper;
 
@@ -25,6 +26,8 @@ namespace StudentManagementSystem.Controllers
         public IActionResult Index()
 
         {
+
+            ViewBag.DeliveryManList = _baseRepository.GetAllList<DeliveryMan>().ToList();
             return View("Index");
         }
 
@@ -34,6 +37,8 @@ namespace StudentManagementSystem.Controllers
         [HttpPost]
         public async Task<IActionResult> Create(Courier model)
         {
+
+            ViewBag.DeliveryManList = _baseRepository.GetAllList<DeliveryMan>().ToList();
             if (!User.Identity.IsAuthenticated)
             {
                 RedirectToAction("Login", "Account");

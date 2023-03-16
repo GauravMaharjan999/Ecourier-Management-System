@@ -221,12 +221,24 @@
 											<input asp-for="Date" type="text" class="form-control validate[required,custom[date]]" placeholder="2016-08-01" />
 										</div>
 									</div>
+									<div class="col-sm-4">
+
+										<div class="form-group require">
+										<label>Delivery Man</label>
+										<select asp-for="DeliveryManId" class="form-control"  asp-items="@(new SelectList(ViewBag.DeliveryManList, nameof(DeliveryMan.Id), nameof(DeliveryMan.Name)))">
+										</select>
+										<span asp-validation-for="DeliveryManId" class="text-danger"></span>
+
+                                        </div>
+                                    </div>
 									<div class="col-sm-12">
 										<div class="form-group require">
 											<label for="Address2">Delivery to</label>
 											<textarea asp-for="DeliveryTo" class="form-control " placeholder="Enter your adress" rows="5"></textarea>
 										</div>
 									</div>
+
+									
 								</div>
 							</fieldset>
 							<div class="form-group marginbot-clear">

@@ -471,3 +471,102 @@ F:\StudentManagement\EcommerceManagementSystem\StudentManagementSystem\obj\Debug
 F:\StudentManagement\EcommerceManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp2.2\StudentManagementSystem.dll
 F:\StudentManagement\EcommerceManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp2.2\StudentManagementSystem.pdb
 F:\StudentManagement\EcommerceManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp2.2\StudentManagementSystem.genruntimeconfig.cache
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\bin\Debug\netcoreapp2.2\libman.json
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\bin\Debug\netcoreapp2.2\StudentManagementSystem.deps.json
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\bin\Debug\netcoreapp2.2\StudentManagementSystem.runtimeconfig.json
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\bin\Debug\netcoreapp2.2\StudentManagementSystem.runtimeconfig.dev.json
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\bin\Debug\netcoreapp2.2\StudentManagementSystem.dll
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\bin\Debug\netcoreapp2.2\StudentManagementSystem.pdb
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\bin\Debug\netcoreapp2.2\StudentManagementSystem.Views.dll
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\bin\Debug\netcoreapp2.2\StudentManagementSystem.Views.pdb
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\bin\Debug\netcoreapp2.2\BusinessLayer.dll
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\bin\Debug\netcoreapp2.2\DataLayer.dll
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\bin\Debug\netcoreapp2.2\Modellayer.dll
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\bin\Debug\netcoreapp2.2\BusinessLayer.pdb
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\bin\Debug\netcoreapp2.2\DataLayer.pdb
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\bin\Debug\netcoreapp2.2\Modellayer.pdb
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\StudentManagementSystem.csproj.AssemblyReference.cache
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\StudentManagementSystem.AssemblyInfoInputs.cache
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\StudentManagementSystem.AssemblyInfo.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\StudentManagementSystem.csproj.CoreCompileInputs.cache
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\StudentManagementSystem.RazorAssemblyInfo.cache
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\StudentManagementSystem.RazorAssemblyInfo.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\StudentManagementSystem.TagHelpers.input.cache
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\StudentManagementSystem.TagHelpers.output.cache
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\StudentManagementSystem.RazorCoreGenerate.cache
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Class\Create.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Class\Delete.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Class\Details.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Class\Edit.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Class\Index - Copy.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Class\Index.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\DeliveryMan\Create.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\DeliveryMan\Details.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\DeliveryMan\Index.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Package\Create.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Package\Details.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Package\Index.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\rough.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Student\Create - Copy (2).cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Student\Create - Copy (3).cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Student\Create - Copy.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Student\Create.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Student\Delete - Copy (2).cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Student\Delete - Copy.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Student\Delete.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Student\Details.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Student\Edit - Copy.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Student\Edit.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Student\Index - Copy (2).cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Student\Index - Copy - Copy.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Student\Index - Copy.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Student\Index.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Student\IndexPartialView.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\UserRole\Create - Copy.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\UserRole\Create.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\UserRole\Details.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\UserRole\Index - Copy.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\UserRole\Index.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\UserRole\NotFound.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\User\Create.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\User\Delete.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\User\Details.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\User\Index.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login - Copy.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login1.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register - Copy.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Views\Administration\CreateRole.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Views\Administration\EditRole.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListRoles.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Views\Administration\ListUsers.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Views\Courier\Index.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Views\Home\Create.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Views\Home\Delete.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Views\Home\Edit.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\HeaderMenu\Default.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\MenuBar\Default.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout - Copy.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutPartialView.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Views\User\ListUsers.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\StudentManagementSystem.RazorTargetAssemblyInfo.cache
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\StudentManagementSystem.RazorTargetAssemblyInfo.cs
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\StudentManagementSystem.Views.pdb
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\StudentManagementSystem.csproj.CopyComplete
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\StudentManagementSystem.dll
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\StudentManagementSystem.pdb
+E:\Personal\Ecourier-Management-System\StudentManagementSystem\obj\Debug\netcoreapp2.2\StudentManagementSystem.genruntimeconfig.cache

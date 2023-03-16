@@ -47,7 +47,7 @@ namespace StudentManagementSystem.Areas.Admin.Controllers
 
             try
             {
-                var result = User.IsInRole("Admin") ? _baseRepository.GetAllList<Courier>().ToList() : _baseRepository.GetAllList<Courier>().Where(x => x.AddedBy == User.Identity.Name).ToList();
+                var result = User.IsInRole("Admin") ? _baseRepository.GetAllList<Courier>().Include(x=> x.DeliveryMan).ToList() : _baseRepository.GetAllList<Courier>().Include(x => x.DeliveryMan).Where(x => x.AddedBy == User.Identity.Name).ToList();
             
                 GridIndexData gridIndexData = new GridIndexData();
 

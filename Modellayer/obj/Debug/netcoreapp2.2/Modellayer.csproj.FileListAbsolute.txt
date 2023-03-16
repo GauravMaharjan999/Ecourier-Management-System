@@ -48,3 +48,13 @@ F:\StudentManagement\EcommerceManagementSystem\Modellayer\obj\Debug\netcoreapp2.
 F:\StudentManagement\EcommerceManagementSystem\Modellayer\obj\Debug\netcoreapp2.2\Modellayer.csproj.CoreCompileInputs.cache
 F:\StudentManagement\EcommerceManagementSystem\Modellayer\obj\Debug\netcoreapp2.2\Modellayer.dll
 F:\StudentManagement\EcommerceManagementSystem\Modellayer\obj\Debug\netcoreapp2.2\Modellayer.pdb
+E:\Personal\Ecourier-Management-System\Modellayer\bin\Debug\netcoreapp2.2\Modellayer.deps.json
+E:\Personal\Ecourier-Management-System\Modellayer\bin\Debug\netcoreapp2.2\Modellayer.dll
+E:\Personal\Ecourier-Management-System\Modellayer\bin\Debug\netcoreapp2.2\Modellayer.pdb
+E:\Personal\Ecourier-Management-System\Modellayer\obj\Debug\netcoreapp2.2\Modellayer.csproj.AssemblyReference.cache
+E:\Personal\Ecourier-Management-System\Modellayer\obj\Debug\netcoreapp2.2\Modellayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Personal\Ecourier-Management-System\Modellayer\obj\Debug\netcoreapp2.2\Modellayer.AssemblyInfoInputs.cache
+E:\Personal\Ecourier-Management-System\Modellayer\obj\Debug\netcoreapp2.2\Modellayer.AssemblyInfo.cs
+E:\Personal\Ecourier-Management-System\Modellayer\obj\Debug\netcoreapp2.2\Modellayer.csproj.CoreCompileInputs.cache
+E:\Personal\Ecourier-Management-System\Modellayer\obj\Debug\netcoreapp2.2\Modellayer.dll
+E:\Personal\Ecourier-Management-System\Modellayer\obj\Debug\netcoreapp2.2\Modellayer.pdb
